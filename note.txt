@@ -1,1 +1,2 @@
 More text: the second file
+this feature for note file
